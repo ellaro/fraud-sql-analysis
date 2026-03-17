@@ -1,4 +1,4 @@
-# 🔍 Credit Card Fraud Detection — SQL Analytics
+# 🔍 Credit Card Fraud Detection - SQL Analytics
 
 > Advanced SQL analysis for identifying financial fraud patterns in credit card transaction data.  
 > Built as a demonstration of fraud analytics techniques relevant to the payments and financial crime domain.
@@ -104,5 +104,5 @@ This project directly models skills used in:
 
 ## 👤 Author
 
-**[Your Name]**  
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**Ella Rosenberg**  
+[LinkedIn](https://linkedin.com/in/ella-rosenberg-developer/) · [GitHub](https://github.com/ellaro)
